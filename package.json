@@ -1,0 +1,19 @@
+{
+  "name": "sevennq86-resume",
+  "version": "1.0.0",
+  "description": "Resume Exercise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "sevennq86"
+  },
+  "author": "Brandon Neves",
+  "license": "ISC",
+
+  "bin": {
+    "resume-me": "./index.js"
+  }
+}
